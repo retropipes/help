@@ -1,2 +1,2 @@
-# lib-java-help
+# Help
  Java help viewer library
